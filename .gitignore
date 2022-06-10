@@ -1,3 +1,8 @@
 /node_modules
 /dist
 /stories
+
+yarn-error.log
+yarn.lock
+
+package-lock.json
